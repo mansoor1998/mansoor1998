@@ -3,7 +3,7 @@
 - 🔭 I have 2 years of professional experience in DotNet Core | Angular | React | Node JS 
 - 🌱 I’m currently doing my Masters in Computer Science with focus area of Machine Learning
 - 📫 How to reach me: @mansoor1998
-- 😎 <a href="https://mansoor1998.github.io/portfolio">portfolio</a>
+- 😎 <a href="https://mansoor1998.github.io/portfolio" target="_blank">portfolio</a>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
